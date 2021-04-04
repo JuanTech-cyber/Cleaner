@@ -7,7 +7,7 @@
 -- Run JT_Cleaner as administrator 
 
 --Enter number 1 to eliminate the update
-                /OR/
+               (OR)
 --Enter number 2 to exit the program 
 
 //If you like the program considere buy me a coffe//
