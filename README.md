@@ -2,8 +2,12 @@
 
 ***This program can eliminate the windows update and give you more free space***
 
---Enter number 1 to eliminate the update
+-- Unzip de folder
 
+-- Run JT_Cleaner as administrator 
+
+--Enter number 1 to eliminate the update
+                /OR/
 --Enter number 2 to exit the program 
 
 //If you like the program considere buy me a coffe//
