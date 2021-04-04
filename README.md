@@ -8,6 +8,6 @@
 
 //If you like the program considere buy me a coffe//
 
-==Bitcoin addresses: bc1q2hylnpdczhgkrxx0nwtcpkeadjxz2xasxmss9h==
+**//Bitcoin addresses: bc1q2hylnpdczhgkrxx0nwtcpkeadjxz2xasxmss9//**
 
 ***Thank´s for visit my github***
