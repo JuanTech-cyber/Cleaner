@@ -10,7 +10,7 @@
                (OR)
 --Enter number 2 to exit the program 
 
-//If you like the program considere buy me a coffe//
+//If you like the program consider supporting my work//
 
 ** Bitcoin addresses: bc1q2hylnpdczhgkrxx0nwtcpkeadjxz2xasxmss9 **
 
