@@ -11,8 +11,5 @@
                (OR)
 --Enter number 2 to exit the program 
 
-//If you like the program consider supporting my work//
-
-** Bitcoin addresses: bc1q2hylnpdczhgkrxx0nwtcpkeadjxz2xasxmss9 **
 
 ***Thank´s for visit my github***
